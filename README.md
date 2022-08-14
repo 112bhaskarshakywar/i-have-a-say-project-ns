@@ -41,9 +41,9 @@ List the ready features here:
 
 
 ## Screenshots
-![Screenshot (60)](https://user-images.githubusercontent.com/68631246/182025868-ff48e3d5-7544-4e57-bd2b-b822aa2569f1.png)
-![Screenshot (6) - Copy](https://user-images.githubusercontent.com/68631246/182025873-45b3da79-ec91-4b4a-b54b-763d03b8a226.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/68631246/182025877-f2250fe4-91ea-4882-828d-aba380e7c392.png)
+![Screenshot (60)](https://github.com/112bhaskarshakywar/i-have-a-say-project-ns/blob/main/Screenshot%20(74).png)
+![Screenshot (6) - Copy](https://github.com/112bhaskarshakywar/i-have-a-say-project-ns/blob/main/Screenshot%20(75).png)
+![Screenshot (61)](https://github.com/112bhaskarshakywar/i-have-a-say-project-ns/blob/main/Screenshot%20(76).png)
 
 ## Setup
 - we have used html and css properties.
@@ -79,5 +79,5 @@ To do:
 
 
 ## Contact
-Created by [@flynerdpl](112bhaskarshakywar@gmail.com ) - feel free to contact me!
+Created by [@bhaskar](112bhaskarshakywar@gmail.com ) - feel free to contact me!
 
