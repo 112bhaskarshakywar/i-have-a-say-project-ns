@@ -64,12 +64,13 @@ Project is complete and hosted on netlify.
 we can improve this project by adding featues..
 
 Room for improvement:
-- we can improve it by adding additional pages for country"s places to visit  page
-- we can add new features of  map.
+- we can improve it by adding user authentication feature .
+- we can use server for having multiple user commenting on same comment .
+- we can also have a database to show comments when page starts.
 
 To do:
- - we can  add additional pages for country"s places to visit  page
-- we will add new features of  map.
+ - we needs to have database and server.
+- we needs to have authentication page for users.
 
 ## Acknowledgements
 - This project was inspired by project on newton school assignment.
